@@ -22,7 +22,7 @@ def execute(screen, clock):
   posX = 20
   posY = 20
 
-  screen.fill(WHITE)
+  screen.fill(WHITE) 
 
   while True:
     for event in pygame.event.get():
