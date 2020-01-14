@@ -1,2 +1,4 @@
 pygame==1.9.6
 pytest==5.3.2
+dependency-injection==1.2.0
+pylint==2.3.1
